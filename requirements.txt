@@ -1,0 +1,6 @@
+gspread
+pandas
+streamlit
+sendgrid
+dotenv
+plotly
