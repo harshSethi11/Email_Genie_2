@@ -1,6 +1,9 @@
-gspread
-pandas
 streamlit
-sendgrid
-dotenv
-plotly
+pytz
+transformers
+python-dotenv
+gspread
+google-auth
+notion-client
+
+

@@ -163,3 +163,13 @@ cython_debug/
 
 # dotenv environment variable file
 .env
+
+#google docs api
+credentials.json
+
+check_email.py
+email_sender.py
+google_docs.py
+notion_connect.py
+
+
