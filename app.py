@@ -18,7 +18,7 @@ from groq import Groq
 client = Groq(
         api_key=os.environ.get("GROQ_API_KEY"),
 )
-model_def = "llama-3.3-70b-versatile"
+model_def = "llama3-70b-8192"
 toolsModel = "llama-3.3-70b-versatile"
 maxTokens = 8000
 tokenizer = AutoTokenizer.from_pretrained("Xenova/Meta-Llama-3.1-Tokenizer")
