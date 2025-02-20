@@ -134,7 +134,7 @@ st.set_page_config(
         page_title= "EmailGenie",
         page_icon= "🧞‍♂️")
 
-ipAddress = st.context.headers.get("x-forwarded-for")
+ipAddress = ""
 
 
 def __nowInIST() -> DT.datetime:
